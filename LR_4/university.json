@@ -1,0 +1,60 @@
+{
+  "name": "Tech University",
+  "head": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "middleName": "Edward",
+    "gender": "MALE",
+    "className": "Professor"
+  },
+  "faculties": [
+    {
+      "name": "Computer Science",
+      "head": {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "middleName": "Ann",
+        "gender": "FEMALE",
+        "className": "Professor"
+      },
+      "departments": [
+        {
+          "name": "Software Engineering",
+          "head": {
+            "firstName": "Bob",
+            "lastName": "Brown",
+            "middleName": "Michael",
+            "gender": "MALE",
+            "className": "Professor"
+          },
+          "groups": [
+            {
+              "name": "SE-2025",
+              "head": {
+                "firstName": "Charlie",
+                "lastName": "Davis",
+                "middleName": "Lee",
+                "gender": "MALE",
+                "className": "Professor"
+              },
+              "students": [
+                {
+                  "firstName": "Eva",
+                  "lastName": "White",
+                  "middleName": "Maria",
+                  "gender": "FEMALE"
+                },
+                {
+                  "firstName": "Daniel",
+                  "lastName": "Black",
+                  "middleName": "James",
+                  "gender": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
